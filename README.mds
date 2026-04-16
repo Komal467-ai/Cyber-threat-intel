@@ -1,0 +1,9 @@
+# Data Folder
+
+This folder contains generated data from the preprocessing pipeline.
+
+## How to Generate Data
+
+1. Run the pipeline:
+   ```bash
+   python preprocessing_pipeline.py
